@@ -24,4 +24,5 @@ contacts.each do |hero|
 end
 end
 end
+end
 end 
